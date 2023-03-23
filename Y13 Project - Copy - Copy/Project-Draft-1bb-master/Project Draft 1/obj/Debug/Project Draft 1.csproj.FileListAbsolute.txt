@@ -1,0 +1,32 @@
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\Project Draft 1.exe.config
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\Project Draft 1.exe
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\Project Draft 1.pdb
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.dll
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.Wpf.dll
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.pdb
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.xml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.Wpf.pdb
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\bin\Debug\LiveCharts.Wpf.xml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Altitude.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Launch.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Altitude.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Builder.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Graph Controller.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Launch.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\MainWindow.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Selector.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\App.g.cs
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1_MarkupCompile.cache
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1_MarkupCompile.lref
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Builder.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Graph Controller.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\MainWindow.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Selector.baml
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.g.resources
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project_Draft_1.Properties.Resources.resources
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.csproj.GenerateResource.cache
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.csproj.CoreCompileInputs.cache
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.csproj.CopyComplete
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.exe
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.pdb
+\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project Draft 1\obj\Debug\Project Draft 1.csproj.AssemblyReference.cache

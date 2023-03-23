@@ -1,0 +1,30 @@
+﻿<Window x:Class="Project_Draft_1.Selector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Draft_1"
+        mc:Ignorable="d"
+        Title="Selector" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="Chooser"  Text="Choose your Rocket" IsReadOnly="True"  IsEditable="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="222" Margin="28,44,0,0" Height="36" SelectionChanged="Chooser_SelectionChanged" FontSize="20"/>
+        <Label Content="Thrust" HorizontalAlignment="Left" Height="30" Margin="53,235,0,0" VerticalAlignment="Top" Width="56" Background="#FFBFBFBF"/>
+        <Label x:Name="Dry_Mass" Content="Dry Mass" HorizontalAlignment="Left" Height="30" Margin="277,235,0,0" VerticalAlignment="Top" Width="66" Background="#FFBFBFBF"/>
+        <Label x:Name="Wet_Mass" Content="Wet Mass" HorizontalAlignment="Left" Height="30" Margin="370,235,0,0" VerticalAlignment="Top" Width="67" Background="#FFBFBFBF"/>
+        <Label x:Name="T_W" Content="Thrust to Weight" HorizontalAlignment="Left" Height="30" Margin="145,235,0,0" VerticalAlignment="Top" Width="105" Background="#FFBFBFBF"/>
+        <Label x:Name="SI" Content="Specific Impulse" HorizontalAlignment="Left" Height="30" Margin="472,235,0,0" VerticalAlignment="Top" Width="100" Background="#FFBFBFBF" OpacityMask="#FFFF1919"/>
+        <ComboBox x:Name="Location" Text="Launch Location" IsReadOnly="True"  IsEditable="True" HorizontalAlignment="Left" Height="30" Margin="628,268,0,0" VerticalAlignment="Top" Width="118"/>
+        <TextBox x:Name="Thrusttxt" HorizontalAlignment="Left" Height="21" Margin="53,277,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="56"/>
+        <TextBox x:Name="T_W_txt" HorizontalAlignment="Left" Height="21" Margin="145,277,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="Drytxt" HorizontalAlignment="Left" Height="21" Margin="277,277,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="66"/>
+        <TextBox x:Name="WetTxt" HorizontalAlignment="Left" Height="21" Margin="370,277,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="67"/>
+        <TextBox x:Name="SItxt" HorizontalAlignment="Left" Height="21" Margin="472,277,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="Back" Content="Go Back" HorizontalAlignment="Left" Height="38" Margin="53,330,0,0" VerticalAlignment="Top" Width="103" Click="Back_Click" FontSize="20" Background="#FFF38E8E"/>
+        <Button x:Name="Launch" Content="Launch!" HorizontalAlignment="Left" Height="38" Margin="616,334,0,0" VerticalAlignment="Top" Width="130" Click="Launch_Click" FontSize="20" Background="#FFF38E8E"/>
+        <Button x:Name="Values" Content="Set Values" HorizontalAlignment="Left" Margin="294,326,0,0" VerticalAlignment="Top" Width="157" Height="42" Click="Values_Click" Background="#FFF38E8E"/>
+
+    </Grid>
+    <Window.Background>
+        <ImageBrush ImageSource="\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project images/f9 sun.jpg" Stretch="UniformToFill" />
+    </Window.Background>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Project_Draft_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Draft_1"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow"
+        WindowState="Maximized"
+        SizeToContent="Manual"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Rocket Flight Simulator" HorizontalAlignment="Left" Height="48" Margin="16,17,0,0" VerticalAlignment="Top" Width="605" FontSize="30" FontWeight="Bold"/>
+        <ComboBox x:Name="Mode_Selector" HorizontalAlignment="Left"    Text="-- Select Your Mode --" IsReadOnly="True"  IsEditable="True" Height="25" Margin="80,193,0,0" VerticalAlignment="Top" Width="145" SelectionChanged="Mode_Selector_SelectionChanged"/>
+        <Button x:Name="Run" Content="Run" HorizontalAlignment="Left" Height="27" Margin="110,292,0,0" VerticalAlignment="Top" Width="93" Click="Run_Click" Background="#FFFF5757" BorderBrush="Black"/>
+        <DataGrid x:Name="Datafr" HorizontalAlignment="Left" Height="250" VerticalAlignment="Top" Width="304" Margin="308,134,0,0"/>
+
+
+    </Grid>
+    <Window.Background>
+        <ImageBrush ImageSource="\\svr-pfs-02\16RandelL$\My Documents\Y13 Project - Copy - Copy\Project-Draft-1bb-master\Project images/starship wdr.jpg" Stretch="UniformToFill" />
+    </Window.Background>
+</Window>
